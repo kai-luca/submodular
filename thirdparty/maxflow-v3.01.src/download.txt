@@ -1,1 +1,1 @@
-http://vision.csd.uwo.ca/code/maxflow-v3.01.zip
+http://vision.csd.uwo.ca/files/maxflow-v3.01.zip

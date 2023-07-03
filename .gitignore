@@ -3,3 +3,6 @@ thirdparty/HOCR/*
 !thirdparty/HOCR/download.txt
 thirdparty/QPBO/*
 !thirdparty/QPBO/download.txt
+thirdparty/maxflow-v3.01.src/*
+!thirdparty/maxflow-v3.01.src/download.txt
+thirdparty/maxflow-v3.01.zip
