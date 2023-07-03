@@ -1,0 +1,5 @@
+build/
+thirdparty/HOCR/*
+!thirdparty/HOCR/download.txt
+thirdparty/QPBO/*
+!thirdparty/QPBO/download.txt
